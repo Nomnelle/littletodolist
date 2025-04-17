@@ -57,4 +57,4 @@ export default tseslint.config({
 
 ## Project description 
 
-Small todo list project developped in React, during my first year of master's degree in Cognitive Sciences, for our Interface and Web component classe.
+Small todo list project developped in React, during my first year of master's degree in Cognitive Sciences, for our Interface and Web Components classe.
